@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<h1>About Me! 😎</h1>
+###<h1>About Me! 😎</h1>
 
 
 - 🔭: I am currently working on making wp2 skid.
